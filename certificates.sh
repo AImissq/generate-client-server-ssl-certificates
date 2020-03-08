@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# ackroydAI 2020
+
 # set values for certificate DNs
 # note: CN is set to different values in the sections below
 ORG="000_Test_Certificates"
