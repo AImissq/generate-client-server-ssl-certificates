@@ -1,6 +1,11 @@
 #!/bin/bash
 
 # ackroydAI 2020
+#-----BEGIN GEEK CODE BLOCK-----
+#Version: 3.1
+#GIT/SS d-(-) s: a+++ C++ UL P L+++ E- !W+++ !N !o K- w-- !O !M V- PS++ PE-- !Y PGP t-- !5 X++ !R tv b- DI D+ G e@ h>$ r-- z+
+#------END GEEK CODE BLOCK------ 
+
 
 # set values for certificate DNs
 # note: CN is set to different values in the sections below
