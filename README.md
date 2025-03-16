@@ -4,3 +4,4 @@ Script to generate CA.cert client.csr server.csr server.crt client.crt and key c
 Txt file has script to convert .crt to .pem certificate type
 
 Produced certificates have 10yr validity
+![Profile views](https://views.igorkowalczyk.dev/api/badge/@aimissq?style=classic)
